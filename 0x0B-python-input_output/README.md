@@ -1,3 +1,1 @@
-# Python - Input/Output
-
-----------------
+This Is ALX 0x0B. Python - Input/Output Project
