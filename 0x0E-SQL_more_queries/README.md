@@ -1,3 +1,3 @@
-# SQL More Queries
+# This Is ALX SQL More Queries Project
 
 ------------
